@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_SDL3_Sample", "CSharp_SDL3_Sample.csproj", "{78F6D4FA-18DD-4AAC-8D4B-511E78B509EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F6D4FA-18DD-4AAC-8D4B-511E78B509EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F6D4FA-18DD-4AAC-8D4B-511E78B509EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F6D4FA-18DD-4AAC-8D4B-511E78B509EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F6D4FA-18DD-4AAC-8D4B-511E78B509EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC25E2AC-92CD-2210-9E5F-ED576624AB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC25E2AC-92CD-2210-9E5F-ED576624AB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC25E2AC-92CD-2210-9E5F-ED576624AB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC25E2AC-92CD-2210-9E5F-ED576624AB30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55FD675D-72FE-4036-A7E6-F62C51145F14}
+	EndGlobalSection
+EndGlobal

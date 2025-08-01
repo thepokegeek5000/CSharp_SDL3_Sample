@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+	<PropertyGroup>
+		<DefaultItemExcludes>$(DefaultItemExcludes);ext\**\*</DefaultItemExcludes>
+	</PropertyGroup>
+
+  <ItemGroup>
+		<Compile Include="ext\SDL3-CS\SDL3\SDL3.Core.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+[submodule "ext/SDL3-CS"]
+	path = ext/SDL3-CS
+	url = https://github.com/flibitijibibo/SDL3-CS.git
