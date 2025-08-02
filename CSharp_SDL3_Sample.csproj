@@ -16,4 +16,8 @@
 		<Compile Include="ext\SDL3-CS\SDL3\SDL3.Core.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="SDL3-CS.Native" Version="3.2.18" />
+  </ItemGroup>
+
 </Project>

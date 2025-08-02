@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-
             if (!SDL3.SDL.SDL_Init(SDL3.SDL.SDL_InitFlags.SDL_INIT_VIDEO))
             {
                 Console.WriteLine("oh no!");
